@@ -15,6 +15,7 @@ def main():
     print("[00] For Exit")
     
     
+    
     def multiplication():
         os.system('clear')
         m1 = int(input("Enter Multiplicaton number: "))
